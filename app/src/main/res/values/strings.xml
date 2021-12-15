@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Words</string>
+    <string name="red">Red</string>
+    <string name="definition_string">Definition</string>
+    <string name="synonyms_string">Synonyms</string>
+    <string name="antonyms_string">Antonyms</string>
+    <string name="example_string">Example</string>
+    <string name="search_icon_string">search icon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="definition_fragment_string">Definition_Fragment</string>
+    <string name="synonym_fragment_string">Synonym Fragment</string>
+    <string name="antonym_fragment_string">Antonym Fragment</string>
+    <string name="word_string">Word</string>
+    <string name="type_string">(type)</string>
+    <string name="description_string">description</string>
+</resources>
